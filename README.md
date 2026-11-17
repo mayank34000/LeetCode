@@ -7,16 +7,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mayank34000/LeetCode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/mayank34000/LeetCode/tree/master/0049-group-anagrams) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mayank34000/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/mayank34000/LeetCode/tree/master/0682-baseball-game) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mayank34000/LeetCode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/mayank34000/LeetCode/tree/master/0049-group-anagrams) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mayank34000/LeetCode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/mayank34000/LeetCode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/mayank34000/LeetCode/tree/master/0071-simplify-path) |
 | [0844-backspace-string-compare](https://github.com/mayank34000/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/mayank34000/LeetCode/tree/master/1021-remove-outermost-parentheses) |
@@ -54,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mayank34000/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/mayank34000/LeetCode/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
