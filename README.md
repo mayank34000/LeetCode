@@ -86,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/mayank34000/LeetCode/tree/master/0010-regular-expression-matching) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/mayank34000/LeetCode/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
