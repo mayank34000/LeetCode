@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/mayank34000/LeetCode/tree/master/0455-assign-cookies) |
 | [0682-baseball-game](https://github.com/mayank34000/LeetCode/tree/master/0682-baseball-game) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/mayank34000/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/mayank34000/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,11 +70,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/mayank34000/LeetCode/tree/master/0049-group-anagrams) |
 | [0455-assign-cookies](https://github.com/mayank34000/LeetCode/tree/master/0455-assign-cookies) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/mayank34000/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/mayank34000/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Greedy
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/mayank34000/LeetCode/tree/master/0455-assign-cookies) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/mayank34000/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/mayank34000/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Quicksort
 |  |
 | ------- |
