@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/mayank34000/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0455-assign-cookies](https://github.com/mayank34000/LeetCode/tree/master/0455-assign-cookies) |
 | [0682-baseball-game](https://github.com/mayank34000/LeetCode/tree/master/0682-baseball-game) |
+| [0989-add-to-array-form-of-integer](https://github.com/mayank34000/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/mayank34000/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/mayank34000/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Hash Table
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mayank34000/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0989-add-to-array-form-of-integer](https://github.com/mayank34000/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 ## Sorting
 |  |
 | ------- |
