@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mayank34000/LeetCode/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mayank34000/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/mayank34000/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0989-add-to-array-form-of-integer](https://github.com/mayank34000/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
@@ -92,9 +93,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mayank34000/LeetCode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/mayank34000/LeetCode/tree/master/0010-regular-expression-matching) |
 ## Graph Theory
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/mayank34000/LeetCode/tree/master/1791-find-center-of-star-graph) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/mayank34000/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
