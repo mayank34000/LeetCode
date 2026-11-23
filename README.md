@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/mayank34000/LeetCode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/mayank34000/LeetCode/tree/master/0071-simplify-path) |
 | [0168-excel-sheet-column-title](https://github.com/mayank34000/LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0344-reverse-string](https://github.com/mayank34000/LeetCode/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/mayank34000/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/mayank34000/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mayank34000/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/mayank34000/LeetCode/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/mayank34000/LeetCode/tree/master/0455-assign-cookies) |
 | [0844-backspace-string-compare](https://github.com/mayank34000/LeetCode/tree/master/0844-backspace-string-compare) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/mayank34000/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
