@@ -19,10 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mayank34000/LeetCode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mayank34000/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/mayank34000/LeetCode/tree/master/0049-group-anagrams) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mayank34000/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/mayank34000/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/mayank34000/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/mayank34000/LeetCode/tree/master/0049-group-anagrams) |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/mayank34000/LeetCode/tree/master/0901-online-stock-span) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mayank34000/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
