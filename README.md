@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/mayank34000/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/mayank34000/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/mayank34000/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/mayank34000/LeetCode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/mayank34000/LeetCode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/mayank34000/LeetCode/tree/master/0071-simplify-path) |
 | [0168-excel-sheet-column-title](https://github.com/mayank34000/LeetCode/tree/master/0168-excel-sheet-column-title) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mayank34000/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/mayank34000/LeetCode/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/mayank34000/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Simulation
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/mayank34000/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/mayank34000/LeetCode/tree/master/0022-generate-parentheses) |
 | [0198-house-robber](https://github.com/mayank34000/LeetCode/tree/master/0198-house-robber) |
 ## Recursion
 |  |
@@ -126,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mayank34000/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/mayank34000/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
